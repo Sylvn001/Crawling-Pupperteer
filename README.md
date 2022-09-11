@@ -12,7 +12,7 @@
   <a href="#atom_symbol-follow-me">Follow Me!</a>
 </p>
 
-![image](https://user-images.githubusercontent.com/50564121/163297818-11a4d919-58a0-4b2b-b65e-110d3aa55f72.png)
+![code](https://user-images.githubusercontent.com/50564121/189550661-79127d73-d011-4800-8663-d9c7b7ffa407.png)
 
 
 ## ⚒️ Tecnologies (example)
