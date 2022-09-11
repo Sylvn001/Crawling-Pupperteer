@@ -1,0 +1,24 @@
+{
+  "name": "crawling-pupperteer",
+  "version": "1.0.0",
+  "description": "> Resume of application here",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylvn001/Crawling-Pupperteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sylvn001/Crawling-Pupperteer/issues"
+  },
+  "homepage": "https://github.com/Sylvn001/Crawling-Pupperteer#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "puppeteer": "^17.1.3"
+  }
+}
