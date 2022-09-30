@@ -17,10 +17,8 @@
 
 ## ⚒️ Tecnologies (example)
 - [Express](https://expressjs.com/pt-br/)
-- [Jest](https://jestjs.io/)
-- [TypeORM](https://typeorm.io/#/)
-- [Ethereal-Email](https://ethereal.email/)
 - [Typescript](https://www.typescriptlang.org/)
+- [Puppeteer](https://github.com/puppeteer/puppeteer)
 
 ## 💻 Project
   Web Scrapping & Crawling using puppeteer and node
